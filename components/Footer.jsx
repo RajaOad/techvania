@@ -5,6 +5,7 @@ const Footer = () => {
   return (
     <div className="footer-container">
       <p>2023 Techvania All rights reserverd</p>
+      <p>Developed and Designed by Rajkumar Oad</p>
       <p className="icons">
         <AiFillInstagram />
         <AiOutlineTwitter />
